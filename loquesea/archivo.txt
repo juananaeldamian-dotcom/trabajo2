@@ -6,3 +6,5 @@ Contenido del archivo para demostrar la funcionalidad.
 echo "Hola desde Javier" >> prueba.txt
 
 añañin come papa
+
+ere bueno o no ere bueno

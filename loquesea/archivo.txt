@@ -3,3 +3,8 @@ git commit -m "escribir el mensaje que se quiere llegar" (comentar lo que se sub
 git push origin master (para subir los cambios al repositorio)
 git pull origin master (para traer los cambios del repositorio)
 
+
+
+
+
+entiendo bro

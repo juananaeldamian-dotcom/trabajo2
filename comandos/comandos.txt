@@ -1,0 +1,14 @@
+comandos para crear el repositorio
+cd "C:\Users\nelso\OneDrive\Documentos\PROYECTOS - TGS"(lugar donde quiere poner el repositorio)
+git clone https://github.com/juananaeldamian-dotcom/trabajo2.git
+cd "C:\Users\nelso\OneDrive\Documentos\PROYECTOS - TGS\trabajo2"(lugar donde esta el repositorio)
+
+
+
+
+comandos ya dentro del repositorio
+git add . (añadir cambios)
+git commit -m "escribir el mensaje que se quiere llegar" (comentar lo que se sube)
+git push origin master (para subir los cambios al repositorio)
+git pull origin master (para traer los cambios del repositorio)
+
